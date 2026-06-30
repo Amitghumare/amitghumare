@@ -6,10 +6,10 @@ I love turning data into meaningful insights and building data-driven solutions.
 ## 🚀 About Me
 
 - 🎓 Graduated
-- 📊 Skilled in Python, SQL & Power BI
-- 📈 Interested in Machine Learning & Data Science
+- 📊 Skilled in Python, SQL & Power BI, Machine Learning & Artificial Intelligence 
+- 📈 Interested in Machine Learning & Artificial Intelligence & Data Science
 - 🔍 Love working on real-world datasets
-- 🌱 Currently learning advanced ML & statistics
+- 🌱 Currently learning advanced ML, statistics & Artificial Intelligence 
 
 ## 🛠️ Tech Stack
 
