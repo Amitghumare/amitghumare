@@ -16,6 +16,9 @@ I love turning data into meaningful insights and building data-driven solutions.
 *Languages & Tools:*
 - Python 🐍
 - SQL 🗄️
+- Machine Learning
+- Artifical Intelligence
+- Data Science
 - Pandas
 - NumPy
 - Matplotlib
