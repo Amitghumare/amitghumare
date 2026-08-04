@@ -141,15 +141,13 @@ I love turning raw data into meaningful insights and building data-driven soluti
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="linkedin.com/in/amit-ghumare-60246332a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amit-ghumare-60246332a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Ghumare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Amitghumare">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Amitghumare" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Amitghumare-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## ⭐ Support My Work
 
