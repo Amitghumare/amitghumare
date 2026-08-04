@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! 🤚 I'm **Amit Ghumare**, a passionate **Data Analyst** and aspiring **Data Scientist** from India 🇮🇳.
+Hi there! 🤚 I'm **Amit Ghumare**, a passionate **Data Analyst** and aspiring **Data Scientist** from India.
 
 I love turning raw data into meaningful insights and building data-driven solutions using **Python, SQL, Machine Learning, Artificial Intelligence, and Power BI**.
 
@@ -141,7 +141,7 @@ I love turning raw data into meaningful insights and building data-driven soluti
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/amit-ghumare-60246332a/)">
+  <a href="linkedin.com/in/amit-ghumare-60246332a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Amitghumare">
