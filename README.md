@@ -121,16 +121,6 @@ I love turning raw data into meaningful insights and building data-driven soluti
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitghumare&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitghumare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-
 ## 🎯 My Goals
 
 * 🚀 Become a skilled **Data Scientist**
